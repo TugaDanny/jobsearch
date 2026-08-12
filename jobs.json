@@ -21,11 +21,12 @@
     "region": "Leicester/UK",
     "salary": "£30,000–£35,000",
     "url": "https://www.reed.co.uk/jobs/bis-henderson-jobs",
+    "direct_link": false,
     "found_run": "2026-08-11",
     "recommended_cv": "Supply Chain Analyst.pdf",
     "cover_letter": "Optional",
     "follow_up": "Follow up after ~1 week if no response",
-    "notes": "Good match for Supply Chain / Data Analyst background"
+    "notes": "Good match for Supply Chain / Data Analyst background. No exact posting URL found — link above is a search/category page, not the listing itself."
   },
   {
     "id": "lhh-client-manager-accountancy",
@@ -33,27 +34,29 @@
     "company": "via LHH",
     "location": "Leicester, UK",
     "region": "Leicester/UK",
-    "salary": "Up to £35,000",
-    "url": "https://www.reed.co.uk/jobs/client-manager-jobs-in-leicester",
+    "salary": "£40,000–£45,000",
+    "url": "https://www.lhh.com/en-gb/search-jobs/client-manager-leicester-leicestershire/km303026cm_1783948153",
+    "direct_link": true,
     "found_run": "2026-08-11",
     "recommended_cv": "Client Services Manager.pdf",
     "cover_letter": "Yes — recruitment agency placement into a professional practice",
     "follow_up": "Follow up with LHH consultant after ~1 week",
-    "notes": "Client-facing role fits his account management background"
+    "notes": "Client-facing role fits his account management background. Listing wants a QUALIFIED accountant managing a client portfolio — Danny isn't qualified yet, so this may be a reach; worth a quick read before applying."
   },
   {
     "id": "charles-peters-remote-customer-service-manager",
     "title": "Remote Customer Service Manager",
     "company": "Charles Peters",
-    "location": "Remote, UK",
+    "location": "Kenilworth, UK (home-based)",
     "region": "Remote-UK",
     "salary": "£35,000–£38,000",
-    "url": "https://www.totaljobs.com/jobs/customer-service-manager",
+    "url": "https://remote-jobs.com/job/10006629/remote-customer-service-manager/",
+    "direct_link": true,
     "found_run": "2026-08-11",
     "recommended_cv": "Client Services Manager.pdf",
     "cover_letter": "Optional",
     "follow_up": "Follow up after ~1 week",
-    "notes": "Matches his stated preference for remote work"
+    "notes": "Home-based, 5-of-7-day rota reporting to Director of Ops — matches his remote preference but check the rota pattern suits him"
   },
   {
     "id": "fosun-hive-finance-reporting-analyst-lisbon",
@@ -62,12 +65,13 @@
     "location": "Lisbon, Portugal",
     "region": "Portugal",
     "salary": "Not stated",
-    "url": "https://appii.pt/en/empresas/fosun-hive/",
+    "url": "https://www.google.com/search?q=%22Fosun+Hive%22+%22Finance+and+Reporting+Analyst%22+Lisbon",
+    "direct_link": false,
     "found_run": "2026-08-11",
     "recommended_cv": "Finance Analyst.pdf",
     "cover_letter": "Yes — international relocation, explain motivation and Portuguese fluency",
     "follow_up": "Follow up after ~1-2 weeks given international hiring timelines",
-    "notes": "Direct relevance: fluent Portuguese, relocation target country"
+    "notes": "Direct relevance: fluent Portuguese, relocation target country. Requires a Bachelor's in Accounting/Corporate Finance per the listing. No exact posting URL found — link above is a search, not the listing itself."
   },
   {
     "id": "evolve-graduate-account-manager",
