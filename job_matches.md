@@ -2,7 +2,7 @@
 
 Consolidated from the automated job-search routine's runs. Full structured data in `jobs.json`. Dashboard: (link shared separately by Claude).
 
-**Last synced:** 2026-08-12
+**Last synced:** 2026-08-13
 
 ---
 
@@ -31,6 +31,7 @@ Consolidated from the automated job-search routine's runs. Full structured data 
 | Logistics Data Analyst | Bis Henderson | Leicester | £30,000–£35,000 | Supply Chain Analyst.pdf | [Search only ⚠ no direct posting found](https://www.reed.co.uk/jobs/bis-henderson-jobs) |
 | Client Manager (accountancy practice) | via LHH | Leicester | £40,000–£45,000 | Client Services Manager.pdf | [Apply](https://www.lhh.com/en-gb/search-jobs/client-manager-leicester-leicestershire/km303026cm_1783948153) |
 | Graduate Account Manager | Evolve Selection | Leicester | Not confirmed | (general CV) | [Apply](https://pharmajobs.co.uk/job/evolve-leicester-13-graduate-account-manager/) |
+| Accounts Assistant ⭐ | RECfinancial | Leicester | Not stated | Accounts Assistant.pdf | [Apply — use your existing RECFinance CL.pdf](https://recfinancial.co.uk/job/accounts-assistant-17/) |
 
 ## Remote (UK)
 
@@ -50,12 +51,15 @@ Consolidated from the automated job-search routine's runs. Full structured data 
 
 ## Spain
 
-| Title | Company | Location | CV to use | Link |
-|---|---|---|---|---|
-| Graduate Financial Analyst — EMEA Supply Chain ⭐ | HP | Barcelona | Finance Analyst.pdf | [Apply](https://to.indeed.com/aal8bzrrtv8c) |
-| Junior Finance Analyst | Pernod Ricard | Madrid | Finance Analyst.pdf | [Apply](https://to.indeed.com/aaqjtd8jnqvr) |
-| Business Analyst | Accenture | Madrid | Business Systems CV.pdf | [Apply](https://to.indeed.com/aawwmdgnqqzr) |
-| Junior Finance & Accounting Analyst | Macadam | Barcelona | Finance Analyst.pdf | [Apply](https://to.indeed.com/aasvkqkgwqfq) |
+| Title | Company | Location | Salary | CV to use | Link |
+|---|---|---|---|---|---|
+| Graduate Financial Analyst — EMEA Supply Chain ⭐ | HP | Barcelona | Not stated | Finance Analyst.pdf | [Apply](https://to.indeed.com/aal8bzrrtv8c) |
+| Junior Finance Analyst ⭐ | Michael Page (pharma client) | Madrid | €40,000–€45,000 | Finance Analyst.pdf | [Apply](https://jobs.accaglobal.com/job/14026909/junior-finance-analyst/?TrackID=9) |
+| Graduate Account Manager — Spanish Speaker ⭐ | Gartner | Barcelona | Not stated | (general CV) | [Apply](https://jobs.gartner.com/jobs/job/90903-graduate-account-manager-spanish-speaker-2025-graduates/) |
+| Junior Finance Analyst | Pernod Ricard | Madrid | Not stated | Finance Analyst.pdf | [Apply](https://to.indeed.com/aaqjtd8jnqvr) |
+| Business Analyst | Accenture | Madrid | Not stated | Business Systems CV.pdf | [Apply](https://to.indeed.com/aawwmdgnqqzr) |
+| Junior Finance & Accounting Analyst | Macadam | Barcelona | Not stated | Finance Analyst.pdf | [Apply](https://to.indeed.com/aasvkqkgwqfq) |
+| Spanish Speaking Account Manager | CBT | Barcelona | Not stated | (general CV) | [Apply](https://www.careers-page.com/cbt-12/job/L84W55X3) |
 
 ---
 
