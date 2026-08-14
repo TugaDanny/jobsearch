@@ -2,7 +2,11 @@
 
 Consolidated from the automated job-search routine's runs. Full structured data in `jobs.json`. Dashboard: (link shared separately by Claude).
 
-**Last synced:** 2026-08-13
+**Last synced:** 2026-08-14
+
+**⚠ CV mix-up flagged by the routine:** `Accounts Assistant.pdf` and `Business Systems CV.pdf` may have swapped content — the file named "Business Systems" reportedly reads as an Accounts Assistant CV, and vice versa. Verify both before sending either.
+
+**Note:** This table reflects the state as of 2026-08-13. 18 additional verified entries were added on 2026-08-14 (Accounts Assistant/Accounts Payable roles at Phenna Group and others in Leicester, a standout remote Graduate Account Manager role at Wood's UK, Capital One, ING, Lenovo and CBRE in Madrid, IPSEN and Digi Portugal in Lisbon, and a time-sensitive Raytheon UK finance graduate scheme closing ~7 Sept) — see the full current list in `jobs.json` or the dashboard, which are both fully up to date.
 
 ---
 
