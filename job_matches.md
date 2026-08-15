@@ -32,7 +32,6 @@ Consolidated from the automated job-search routine's runs. Full structured data 
 | Data Analyst | Cromwell | Wigston Magna | Not stated | Data Analyst CV.pdf | [Apply](https://to.indeed.com/aaps7brxkkhk) |
 | Financial Controller | Choyce Components | Melton Mowbray | Not stated | Finance Manager CV.pdf | [Apply](https://to.indeed.com/aaqcr694kj7p) |
 | Procurement Data Analyst | AMS | Derby | Not stated | Data Analyst CV.pdf | [Apply](https://to.indeed.com/aawrydwf9l64) |
-| Logistics Data Analyst | Bis Henderson | Leicester | £30,000–£35,000 | Supply Chain Analyst.pdf | [Search only ⚠ no direct posting found](https://www.reed.co.uk/jobs/bis-henderson-jobs) |
 | Client Manager (accountancy practice) | via LHH | Leicester | £40,000–£45,000 | Client Services Manager.pdf | [Apply](https://www.lhh.com/en-gb/search-jobs/client-manager-leicester-leicestershire/km303026cm_1783948153) |
 | Graduate Account Manager | Evolve Selection | Leicester | Not confirmed | (general CV) | [Apply](https://pharmajobs.co.uk/job/evolve-leicester-13-graduate-account-manager/) |
 | Accounts Assistant ⭐ | RECfinancial | Leicester | Not stated | Accounts Assistant.pdf | [Apply — use your existing RECFinance CL.pdf](https://recfinancial.co.uk/job/accounts-assistant-17/) |
@@ -50,7 +49,6 @@ Consolidated from the automated job-search routine's runs. Full structured data 
 |---|---|---|---|---|
 | Finance Analyst | 360imprimir | Lisboa | Finance Analyst.pdf | [Apply](https://to.indeed.com/aa2xyltbl2km) |
 | Junior Financial Operations Analyst | Banco de Investimento Global | Lisboa | Finance Analyst.pdf | [Apply](https://to.indeed.com/aar4jc7jzfdz) |
-| Finance and Reporting Analyst | Fosun Hive Iberia | Lisbon | Finance Analyst.pdf | [Search only ⚠ no direct posting found](https://www.google.com/search?q=%22Fosun+Hive%22+%22Finance+and+Reporting+Analyst%22+Lisbon) |
 | Senior Data Analyst | BNP Paribas | Lisbon | Data Analyst CV.pdf | [Apply](https://group.bnpparibas/en/careers/job-offer/senior-data-analyst-lisbon) |
 
 ## Spain
