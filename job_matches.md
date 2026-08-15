@@ -2,7 +2,7 @@
 
 Consolidated from the automated job-search routine's runs. Full structured data in `jobs.json`. Dashboard: (link shared separately by Claude).
 
-**Last synced:** 2026-08-14
+**Last synced:** 2026-08-15
 
 **⚠ CV mix-up flagged by the routine:** `Accounts Assistant.pdf` and `Business Systems CV.pdf` may have swapped content — the file named "Business Systems" reportedly reads as an Accounts Assistant CV, and vice versa. Verify both before sending either.
 
