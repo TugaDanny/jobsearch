@@ -2,11 +2,13 @@
 
 Consolidated from the automated job-search routine's runs. Full structured data in `jobs.json`. Dashboard: (link shared separately by Claude).
 
-**Last synced:** 2026-08-15
+**Last synced:** 2026-08-16
 
-**⚠ CV mix-up flagged by the routine:** `Accounts Assistant.pdf` and `Business Systems CV.pdf` may have swapped content — the file named "Business Systems" reportedly reads as an Accounts Assistant CV, and vice versa. Verify both before sending either.
+**✓ CV mix-up resolved:** `Accounts Assistant.pdf` and `Business Systems CV.pdf` were confirmed to match their filenames correctly as of the 2026-08-16 morning run.
 
-**⚠ Spanish language correction (2026-08-15):** Danny's Spanish is conversational, not fluent. Several tracked roles with "Spanish Speaking" in the title (Phenna Group's two Leicester roles, Gartner and CBT in Barcelona) likely require fluent/native Spanish — flagged with a caution note each rather than removed, since the exact bar isn't always clear from the title alone. Verify before investing time in those specific applications.
+**⚠ New CV issue:** `Data Analyst CV.pdf` still says "advanced in Spanish" — inconsistent with the conversational-Spanish correction below. Needs editing directly in the PDF.
+
+**⚠ Spanish language correction (2026-08-15):** Danny's Spanish is conversational, not fluent. Several tracked roles with "Spanish Speaking" in the title (Phenna Group's two Leicester roles, Gartner and CBT in Barcelona) likely require fluent/native Spanish — flagged with a caution note each rather than removed, since the exact bar isn't always clear from the title alone. Verify before investing time in those specific applications. The routine's own search now correctly excludes fluency-required Spain roles going forward.
 
 **Note:** This table reflects the state as of 2026-08-13. 18 additional verified entries were added on 2026-08-14 (Accounts Assistant/Accounts Payable roles at Phenna Group and others in Leicester, a standout remote Graduate Account Manager role at Wood's UK, Capital One, ING, Lenovo and CBRE in Madrid, IPSEN and Digi Portugal in Lisbon, and a time-sensitive Raytheon UK finance graduate scheme closing ~7 Sept) — see the full current list in `jobs.json` or the dashboard, which are both fully up to date.
 
